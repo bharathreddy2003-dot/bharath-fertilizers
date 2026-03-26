@@ -9,7 +9,7 @@ import {
 } from 'lucide-react';
 import { cn } from './lib/utils';
 import { PRODUCTS, CROP_SOLUTIONS, BLOG_POSTS, TESTIMONIALS } from './constants';
-<img src="/your-photo-name.jpg" alt="Bharath Fertilizers" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
+<img src="/bharath.jpg" alt="Bharath Fertilizers" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
 // --- Components ---
 
 const Header = () => {
