@@ -1,0 +1,5 @@
+{
+  "name": "Bharath Fertilizers",
+  "description": "Scientific nutrition for better crops. High-quality fertilizers and crop solutions for Indian agriculture.",
+  "requestFramePermissions": ["geolocation"]
+}
